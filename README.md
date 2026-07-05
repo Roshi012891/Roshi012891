@@ -11,7 +11,7 @@ Halo! Saya seorang developer yang antusias membangun aplikasi web menggunakan La
 # 📊 GitHub Stats:
 
 <!-- Bahasa yang Paling Sering Digunakan -->
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Roshi012891&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<img src="https://skillicons.dev/icons?i=html,css,js&perline=12" />
 
 ---
 
