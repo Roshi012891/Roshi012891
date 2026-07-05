@@ -12,7 +12,7 @@ Halo! Saya seorang developer yang antusias membangun aplikasi web menggunakan La
 
 # 📊 GitHub Stats:
 
-![](https://streak-stats.demolab.com/?user=Roshi012891&theme=dark&hide_border=false)<br/>
+
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Roshi012891&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
