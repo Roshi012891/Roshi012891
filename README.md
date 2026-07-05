@@ -10,11 +10,7 @@ Halo! Saya seorang developer yang antusias membangun aplikasi web menggunakan La
 
 # 📊 GitHub Stats:
 
-<!-- Statistik Utama (Termasuk Private Commits) -->
-![](https://github-readme-stats.shion.dev/api?username=Roshi012891&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
-<!-- Statistik Streak -->
-![](https://streak-stats.demolab.com/?user=Roshi012891&theme=dark&hide_border=false)
 
 <!-- Bahasa yang Paling Sering Digunakan -->
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Roshi012891&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
