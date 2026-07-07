@@ -3,7 +3,7 @@ Halo! Saya seorang developer yang antusias membangun aplikasi web menggunakan La
 
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/mokala01z_16366) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/axion01z) 
+<img src="https://skillicons.dev/icons?i=instagram,discord&perline=12" />
 
 # 💻 Tech Stack:
 <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,mysql,postgresql,postman,kali,raspberrypi&perline=12" />
