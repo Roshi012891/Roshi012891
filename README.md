@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=600&height=70&color=FF0000&lines=Halo,+Saya+Jovan+Lionel+Georgio!+:D;Full-Stack+Developer;Cybersecurity+Penetration+Testing" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=600&height=70&color=FF0000&lines=Halo,+Saya+Jovan+Lionel+Georgio!+:D; Backend+Developer;Cybersecurity+Penetration+Testing" alt="Typing Animation" />
 </p>
 
 # 💫 About Me:
