@@ -12,7 +12,7 @@ Saya seorang developer beginner yang antusias membangun aplikasi web menggunakan
 # 💻 Tech Stack:
 <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,&perline=12" />
 
-# 💻 Currently Learning:
+# 📚 Currently Learning:
 <img src="https://skillicons.dev/icons?i=laravel,postgresql,kali,redhat,raspberrypi&perline=12" />
 
 # 📊 GitHub Stats:
