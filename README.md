@@ -7,7 +7,7 @@ Saya seorang developer beginner yang antusias membangun aplikasi web menggunakan
 
 
 ## 🌐 Socials:
-<img src="https://skillicons.dev/icons?i=instagram,discord,youtube&perline=12" />
+<img src="https://skillicons.dev/icons?i=instagram,discord&perline=12" />
 
 # 💻 Tech Stack:
 <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,laravel,raspberrypi&perline=12" />
