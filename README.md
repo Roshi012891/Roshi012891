@@ -1,4 +1,6 @@
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=600&height=70&lines=Halo,+Saya+Jovan+Lionel+Georgio!+:D;Laravel+Full-Stack+Developer;Pocketmine+Plugin+Developer" alt="Typing Animation" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=600&height=70&color=F37021&lines=Halo,+Saya+Jovan+Lionel+Georgio!+:D;Laravel+Full-Stack+Developer;Pocketmine+Plugin+Developer" alt="Typing Animation" />
+</p>
 
 # 💫 About Me:
 Halo! Saya seorang developer beginner yang antusias membangun aplikasi web menggunakan Laravel. Saat ini, saya sedang mendalami dunia cybersecurity dan bereksperimen dengan proyek IoT menggunakan Raspberry Pi. Saya selalu bersemangat untuk berkolaborasi dalam proyek kreatif dan sangat menikmati tantangan saat melakukan debugging kode.
