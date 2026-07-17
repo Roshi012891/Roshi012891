@@ -3,7 +3,7 @@
 </p>
 
 # 💫 About Me:
-Halo! Saya seorang developer beginner yang antusias membangun aplikasi web menggunakan Laravel. Saat ini, saya sedang mendalami dunia cybersecurity dan bereksperimen dengan proyek IoT menggunakan Raspberry Pi. Saya selalu bersemangat untuk berkolaborasi dalam proyek kreatif dan sangat menikmati tantangan saat melakukan debugging kode.
+Saya seorang developer beginner yang antusias membangun aplikasi web menggunakan Laravel. Saat ini, saya sedang mendalami dunia cybersecurity dan bereksperimen dengan proyek IoT menggunakan Raspberry Pi. Saya selalu bersemangat untuk berkolaborasi dalam proyek kreatif dan sangat menikmati tantangan saat melakukan debugging kode.
 
 
 ## 🌐 Socials:
