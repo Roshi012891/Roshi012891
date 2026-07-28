@@ -10,10 +10,10 @@ Saya seorang developer beginner yang antusias membangun aplikasi web menggunakan
 <img src="https://skillicons.dev/icons?i=instagram,discord&perline=12" />
 
 # 💻 Tech Stack:
-<img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,&perline=12" />
+<img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,laravel&perline=12" />
 
 # 📚 Currently Learning:
-<img src="https://skillicons.dev/icons?i=laravel,postgresql,kali,redhat,raspberrypi&perline=12" />
+<img src="https://skillicons.dev/icons?i=postgresql,kali,redhat,raspberrypi&perline=12" />
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Roshi012891&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
